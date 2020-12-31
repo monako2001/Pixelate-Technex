@@ -13,4 +13,4 @@ Some snapshots of the Practice Arena and main arena is shown Below
 </p>
 
 ## Our Approach
-We uses Dijkstra's Shortest path algorithm and OpenCV for Image processing to complete the problem statement.
+We used Dijkstra's Shortest path algorithm and OpenCV for Image processing to complete the problem statement.
